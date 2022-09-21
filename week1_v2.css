@@ -85,7 +85,7 @@
     height:190px;
     vertical-align:top;
 }
-.table{
+.title{
     height:50px;
     line-height:50px;
     background-color:lightblue;
@@ -110,7 +110,7 @@
         width:100%;
         height:100%;
     }
-    .table{
+    .title{
         width:auto;
     }
 }
@@ -156,7 +156,7 @@
     .container2 img{
         flex:auto;
     }
-    .table{
+    .title{
         flex:auto;
     }
 }
