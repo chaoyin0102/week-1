@@ -28,7 +28,7 @@
 .banner{
     display:flex;
     background-color:lightblue;
-    height:330px;
+    height:300px;
     justify-content:center;
     align-items:center;
     margin-bottom:30px;
